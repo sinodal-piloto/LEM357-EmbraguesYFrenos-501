@@ -1,0 +1,2 @@
+/* Sinodal — acceso al examen por la lista del grupo. No contiene matrículas: solo los primeros 16 bits de un SHA-256 con sal de cada una. */
+window.EXAMEN_ACCESO = {"v":1,"sal":"8fe88381deb07d1b","hex":4,"h":["02f8","03e9","133c","16bf","2223","357d","3f71","4120","4e46","5459","549d","60b6","6ede","70a1","7329","7697","7b08","7d16","8bfe","99d7","9cc5","a3eb","ab7e","af57","bb3b","bba8","bc31","c67d","ca30","cad8","d951","db26","e035","e37b","e8cb","f25e","f2a1","f3cf","f911","fe94","ff83"]};
